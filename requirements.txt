@@ -1,2 +1,3 @@
 django
-restframework
+djangorestframework
+requests
